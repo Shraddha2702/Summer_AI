@@ -1,0 +1,11 @@
+TravelingSalesman/data.csv
+TravelingSalesman/dataset/*
+TravelingSalesman/__pycache__/*
+ServiceAndRides/data/*
+ServiceAndRides/manhattan_localmodel/*
+ServiceAndRides/nyc_rides_model/*
+ServiceAndRides/localsave/*
+ServiceAndRides/localsave2/*
+ServiceAndRides/TensorflowTrainer/__pycache__/*
+ServiceAndRides/serviceRequestData/*
+ServiceAndRides/TSPAlgos/__pycache__/*
