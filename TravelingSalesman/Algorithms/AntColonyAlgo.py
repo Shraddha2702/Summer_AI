@@ -1,3 +1,6 @@
+"""
+Code Reference : https://github.com/Akavall/AntColonyOptimization
+"""
 import random as rn
 import numpy as np
 from numpy.random import choice as np_choice
